@@ -48,7 +48,7 @@
   </a>
   <br><br>
   <a href="https://mazandi.vercel.app/api?boj=kkjjkkll1111&theme=warm">
-    <img src="https://mazandi.vercel.app/api?boj=kkjjkkll1111&theme=warm" alt="mazandi">
+    <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
   </a>
 </div>
 
