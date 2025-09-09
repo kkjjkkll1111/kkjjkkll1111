@@ -48,7 +48,7 @@
   </a>
   <br><br>
   <a href="https://solved.ac/kkjjkkll1111">
-    <img src="http://mazandi.herokuapp.com/api?handle={kkjjkkll1111}&theme=warm"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=kkjjkkll1111&theme=warm"/>
   </a>
 </div>
 
