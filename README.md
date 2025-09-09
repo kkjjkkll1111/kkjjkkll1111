@@ -47,9 +47,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjjkkll1111" alt="Solved.ac Badge">
   </a>
   <br><br>
-  <a href="https://mazandi.vercel.app/api?boj=kkjjkkll1111&theme=warm">
-    <img src="http://mazandi.herokuapp.com/api?handle={kkjjkkll1111}&theme=warm"/>
-  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle={kkjjkkll1111}&theme=warm"/>
 </div>
 
 <br>
