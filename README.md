@@ -48,8 +48,7 @@
   </a>
   <br><br>
   <a href="https://solved.ac/kkjjkkll1111">
-    ![mazandi profile](http://mazandi.herokuapp.com/api?handle={kkjjkkll1111}&theme=warm)
-    <img src="https://mazandi.vercel.app/api?boj=kkjjkkll1111&theme=warm" alt="mazandi">
+    <img src="http://mazandi.herokuapp.com/api?handle={kkjjkkll1111}&theme=warm"/>
   </a>
 </div>
 
