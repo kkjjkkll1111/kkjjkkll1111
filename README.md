@@ -41,13 +41,14 @@
 
 <br>
 
-## 🏆 Solved.ac
 <div align="center">
   <a href="https://solved.ac/kkjjkkll1111">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkjjkkll1111" alt="Solved.ac Badge">
   </a>
   <br><br>
-  <img src="http://mazandi.herokuapp.com/api?handle={kkjjkkll1111}&theme=warm"/>
+  <a href="https://solved.ac/kkjjkkll1111">
+    <img src="https://mazandi.vercel.app/api?boj=kkjjkkll1111&theme=warm" alt="mazandi">
+  </a>
 </div>
 
 <br>
